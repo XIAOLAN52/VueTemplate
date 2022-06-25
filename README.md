@@ -1,2 +1,2 @@
 # VueTemplate
-Vue3暂时的模板
+a temporary vue3 template
